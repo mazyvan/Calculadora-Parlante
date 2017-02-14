@@ -1,0 +1,9 @@
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\bin\Debug\Calculadora.exe.config
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\bin\Debug\Calculadora.exe
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\bin\Debug\Calculadora.pdb
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\obj\Debug\Calculadora.Form1.resources
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\obj\Debug\Calculadora.exe
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\Calculadora\obj\Debug\Calculadora.pdb

@@ -1,0 +1,4 @@
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\look\Office2007FormCS\obj\Debug\Office2007FormCS.csprojResolveAssemblyReference.cache
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\look\Office2007FormCS\obj\Debug\Office2007FormCS.Form1.resources
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\look\Office2007FormCS\obj\Debug\Office2007FormCS.Properties.Resources.resources
+Z:\Documents\UNIPOLI TRABAJOS\3er cuatri\Calculadora\Calcu\look\Office2007FormCS\obj\Debug\Office2007FormCS.csproj.GenerateResource.Cache
