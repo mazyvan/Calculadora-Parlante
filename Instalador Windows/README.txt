@@ -1,0 +1,1 @@
+Una vez instalada la calculadora es necesario Ejecutarla como Administrador
