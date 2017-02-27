@@ -1,5 +1,5 @@
 # Calculadora Parlante 
-[Version actual 2.0](https://github.com/mazyvan/Calculadora-Parlante/tree/v1)
+[Version actual 2.0](https://github.com/mazyvan/Calculadora-Parlante/tree/v2)
 
 [Mostrar todas las versiones](https://github.com/mazyvan/Calculadora-Parlante/branches)
 
