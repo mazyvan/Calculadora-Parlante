@@ -1,4 +1,8 @@
-# Calculadora Parlante
+# Calculadora Parlante 
+[Version actual 2.0](https://github.com/mazyvan/Calculadora-Parlante/tree/v1)
+
+[Mostrar todas las versiones](https://github.com/mazyvan/Calculadora-Parlante/branches)
+
 Calculadora de ayuda a débiles visuales. Reproduce sonidos cuando se presiona una tecla.
 
 El proyecto fue desarrollado en Visual Studio programado en C# por lo que se recomienda editar el código fuente con el mismo editor.
