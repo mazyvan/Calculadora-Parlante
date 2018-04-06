@@ -1,7 +1,10 @@
 # Calculadora Parlante 
+
 [Version actual 2.0](https://github.com/mazyvan/Calculadora-Parlante/tree/v2)
 
 [Mostrar todas las versiones](https://github.com/mazyvan/Calculadora-Parlante/branches)
+
+<img src="./img.png" width="380">
 
 Calculadora de ayuda a débiles visuales. Reproduce sonidos cuando se presiona una tecla.
 
